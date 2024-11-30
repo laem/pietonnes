@@ -79,7 +79,7 @@
 		"react-mapbox-gl": "^5.1.1",
 		"react-refresh": "^0.14.0",
 		"react-router-dom": "^6.8.2",
-		"socket.io": "^4.6.1",
+		"socket.io": "^4.6.2",
 		"socket.io-client": "^4.6.1",
 		"style-loader": "^3.3.1",
 		"styled-components": "^5.3.6",
