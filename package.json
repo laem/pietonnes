@@ -66,7 +66,7 @@
 		"mapbox-gl": "^2.10.0",
 		"mapshaper": "^0.6.7",
 		"netlify-lambda": "^2.0.15",
-		"next": "^13.5.3",
+		"next": "^14.1.1",
 		"osmtogeojson": "^3.0.0-beta.4",
 		"pigeon-maps": "^0.21.3",
 		"polygon-clipping": "^0.15.3",
